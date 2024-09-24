@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=TRANGULAR -> PWM Pin=J9-2
+Added Pin To Net: NetName=TRANGULAR -> PWM Pin=J9-4
+Added Pin To Net: NetName=TRANGULAR -> PWM Pin=J9-6
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=J9-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=J9-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=J9-5
+Added Net: Name=NetC8_2

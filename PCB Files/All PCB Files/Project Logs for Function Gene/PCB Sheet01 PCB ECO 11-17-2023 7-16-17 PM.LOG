@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TRANGULAR -> PWM Pin=S100-2
+Removed Pin From Net: NetName=TRANGULAR -> PWM Pin=S100-4
+Removed Pin From Net: NetName=TRANGULAR -> PWM Pin=S100-6
+Removed Member From Class: ClassName=Sheet1 Member=S100
+Added Member To Class: ClassName=Sheet1 Member=Component S1 B4B-XH-A_LF__SN_

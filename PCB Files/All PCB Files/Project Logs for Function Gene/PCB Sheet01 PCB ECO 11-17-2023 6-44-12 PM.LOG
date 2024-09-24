@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=-12VReg-1
+Removed Pin From Net: NetName=Net-12VReg_2 Pin=-12VReg-2
+Removed Pin From Net: NetName=TRANGULAR Pin=IC4-3
+Removed Pin From Net: NetName=+VCC Pin=JOUT-1
+Removed Pin From Net: NetName=GND Pin=JOUT-3
+Change Footprint: Footprint Not Found HDRV6W64P254_2X3_762X500X901P
+Change Component Footprint: Designator=JIN Old Footprint=FP-440054-3-MFG New Footprint=HDRV3W87P0X254_1X3_747X635X1105P
+Change Component Footprint: Designator=JOUT Old Footprint=FP-440054-3-MFG New Footprint=HDRV3W87P0X254_1X3_747X635X1105P
+Change Component Comment : Designator=S1 Old Comment=690357100672 New Comment=PH2-06-UA
+Change Component Comment : Designator=JIN Old Comment=PIN New Comment=0022232031
+Change Component Comment : Designator=JOUT Old Comment=POUT New Comment=0022232031
+Change Managed Component Library Link : Designator=JIN Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=967FBB60-BAC1-49F2-A760-D4A475969DE1 New ItemGUID= Old RevisionGUID=DFCDAF47-3990-4EA1-A11C-74C5E56C2E69 New RevisionGUID=
+Change Managed Component Library Link : Designator=JOUT Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=967FBB60-BAC1-49F2-A760-D4A475969DE1 New ItemGUID= Old RevisionGUID=DFCDAF47-3990-4EA1-A11C-74C5E56C2E69 New RevisionGUID=
+Change Managed Component Library Link : Designator=S1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=11203FC4-2BFF-4B39-A24C-EC138773DED9 New ItemGUID= Old RevisionGUID=B4A6CF01-1134-4055-9880-FC362D28E58F New RevisionGUID=
+Change component parameters: Designator = "JIN" ("JIN"); Footprint = "FP-440054-3-MFG"; UniqueID = "\AHTVCFWL" ("\AHTVCFWL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0022232031/molex?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022232031_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0022232031?qs=PBcRNPEHKsqLjUBIVcYwpw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JOUT" ("JOUT"); Footprint = "FP-440054-3-MFG"; UniqueID = "\LJPJZAML" ("\LJPJZAML")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0022232031/molex?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022232031_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0022232031?qs=PBcRNPEHKsqLjUBIVcYwpw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "690357100672"; UniqueID = "\RKWAVZTA" ("\RKWAVZTA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PH2-06-UA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph2-06-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c63e3fe101e7b6e3957e7ad4a1a98367.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.008mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH2-06-UA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net-12VReg_2 Pin=-12VReg-1
+Added Pin To Net: NetName=GND Pin=-12VReg-2
+Added Pin To Net: NetName=TRANGULAR -> PWM Pin=IC4-3
+Added Pin To Net: NetName=GND Pin=JOUT-1
+Added Pin To Net: NetName=+VCC Pin=JOUT-3
+Change Net Name : Old Net Name=Net-12VReg_2 New Net Name=Net-12VReg_1
+Added Member To Class: ClassName=Sheet1 Member=Component S1 B4B-XH-A_LF__SN_
+Added Room: Name=Sheet1

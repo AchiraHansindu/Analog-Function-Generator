@@ -1,0 +1,6 @@
+Change Footprint: Footprint Not Found HDRV6W64P254_2X3_762X500X901P
+Change Component Designator: OldDesignator=S1 NewDesignator=S100
+Add Component: Footprint Not Found HDRV6W64P254_2X3_762X500X860P
+Add Class Member: Failed to add class member : Component J? PR20203VBDN
+Added Member To Class: ClassName=Sheet1 Member=Component S100 PH2-06-UA
+Added Room: Name=Sheet1

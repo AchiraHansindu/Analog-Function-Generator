@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=-VCC Pin=H8-2
+Removed Pin From Net: NetName=-VCC Pin=H9-1
+Removed Pin From Net: NetName=+VCC Pin=H9-2
+Removed Member From Class: ClassName=Sheet1 Member=H9
+Added Component: Designator=JIN?(HDRV3W87P0X254_1X3_747X635X1105P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0022232031/molex?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022232031_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022232031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0022232031?qs=PBcRNPEHKsqLjUBIVcYwpw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VCC Pin=JIN?-1
+Added Pin To Net: NetName=-VCC Pin=JIN?-3
+Added Pin To Net: NetName=+VCC Pin=U1-4
+Added Pin To Net: NetName=-VCC Pin=U1-8
+Added Pin To Net: NetName=NetH8_2 Pin=H8-2
+Added Pin To Net: NetName=NetH8_2 Pin=JIN?-2
+Added Net: Name=NetH8_2
+Added Member To Class: ClassName=Sheet1 Member=Component JIN? 0022232031
+Added Room: Name=Sheet1
